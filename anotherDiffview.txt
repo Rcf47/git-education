@@ -2,3 +2,5 @@ This is a new file for my diffview
 and something weird here
 some change for muy 
 what the heck
+---------------------
+
