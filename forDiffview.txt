@@ -1,3 +1,14 @@
-Hello this is my diffview education!!!
-Now I try another line
-And another line
+Hllo this is my diffview education!!!
+and again
+some text for commit
+just try
+some text
+for fuggitive
+
+another text
+1. item
+2. item
+3. item
+4. item
+5. item
+6. item
