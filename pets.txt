@@ -1,5 +1,16 @@
 1. cats better then dogs
 2. cats
+<<<<<<< HEAD
 3. dragons-dog
+||||||| 4b2d390
+3. dragons
+=======
+3. dragons-cat
+>>>>>>> cats
 4. birds
+<<<<<<< HEAD
 5. new pets for git merge
+||||||| 4b2d390
+=======
+5. this pet from cat and it certanly better
+>>>>>>> cats
